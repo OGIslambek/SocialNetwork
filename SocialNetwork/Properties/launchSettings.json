@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SocialNetwork": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\ogisl\\source\\repos\\SocialNetwork\\SocialNetwork\\bin\\Debug\\net8.0"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
